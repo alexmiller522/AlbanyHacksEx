@@ -1,0 +1,4 @@
+NAME: Bailey     BREED: Huskey          AGE: 1     GENDER: female    
+NAME: Brad       BREED: Mutt            AGE: 10    GENDER: male      
+NAME: Holly      BREED: Beagle          AGE: 2     GENDER: female    
+NAME: June       BREED: Mutt            AGE: 7     GENDER: female    
